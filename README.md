@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# Real Time Crypto Tracker WebApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+In today's rapidly evolving landscape of Web3 and cryptocurrencies, staying informed about the prices and trends of numerous cryptocurrencies can be challenging due to their volatility. To address this need, we've developed a centralized platform for tracking cryptocurrency prices, comparing various coins, monitoring market volumes, and visualizing trends over time.
 
-In the project directory, you can run:
+Our cryptocurrency tracking dashboard serves several key purposes:
 
-### `npm start`
+Real-Time Insights: Access up-to-date data on cryptocurrency values and market fluctuations in real-time, aiding informed trading decisions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Portfolio Monitoring: Easily monitor portfolio performance, identifying underperforming assets and optimizing returns through adjustments.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Enhanced Decision-Making: The dashboard integrates features such as alerts, news updates, and analytical tools to help users make well-informed investment choices.
 
-### `npm test`
+Our platform offers a valuable solution for managing and tracking cryptocurrency investments, guiding users towards their investment goals.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+- Real-time cryptocurrency price tracking.
+- Market volume monitoring for different cryptocurrencies.
+- Comparative analysis of various cryptocurrencies.
+- Time-wise trend visualization.
+- User-friendly and intuitive interface.
+- Responsive design for seamless usage across devices.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation and Setup
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone this repository: `https://github.com/pravinbhagwat/Real-Time-Crypto-Currency-Tracker.git`
+2. Navigate to the project directory: `cd Real-Time-Crypto-Currency-Tracker`
+3. Install project dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your web browser and visit: `http://localhost:3000`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
+- HTML, CSS, JavaScript for front-end development.
+- [React](https://reactjs.org/) for building the user interface.
+- [Chart.js](https://www.chartjs.org/) for creating interactive charts.
+- [Public Cryptocurrency API](https://www.coingecko.com/en/api/documentation) for real-time data.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Useful Links
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Project link: https://crypto-tracker-six-hazel.vercel.app/
+- Figma design: https://www.figma.com/file/zHjG17R9K9VI61xm7qRa2l?comments-enabled=1
+- Design inspiration: https://dribbble.com/
+- API used: https://www.coingecko.com/en/api/documentation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Future Enhancements
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- User authentication and personalized portfolios.
+- Price alerts and notifications.
+- In-depth historical data and analysis.
+- Integration with additional cryptocurrency exchanges.
